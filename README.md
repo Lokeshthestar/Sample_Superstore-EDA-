@@ -1,6 +1,7 @@
 # Sample_Superstore-EDA-
-My analyis for the datasets are:-
+## My analyis for the datasets are:-
 1.Maximum are from Binders, Paper, furnishings, Phones, storage, art, accessories and minimum from copiers, machines, suppliers
+
 2.It has been observed that highest number of buyers are from California
 3.Most customers tends to buy quantity of 2 and 3
 4.Discount give maximum is 0 to 20 percent
